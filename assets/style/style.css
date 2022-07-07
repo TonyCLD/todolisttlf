@@ -4,6 +4,86 @@ body {
     line-height: 1;
   }
   
+  /* .form-control {
+    background-color: #abc093;
+    main text area  */
+  } 
+  #h5am {
+    background-color: #63b2c1;
+    /* main text area */
+  } 
+
+  #h6am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h7am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+
+  #h8am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h9am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h10am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h11am {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h12pm {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h1pm {
+    background-color: #abc093;
+    /* main text area */
+  } 
+
+  #h2pm {
+    background-color: #abc093;
+    /* main text area */
+  }   
+
+  #h3pm {
+    background-color: #abc093;
+    /* main text area */
+  }   
+
+  #h4pm {
+    background-color: #abc093;
+    /* main text area */
+  }   
+
+  #h5pm {
+    background-color: #abc093;
+    /* main text area */
+  }   
+
+  #h6pm {
+    background-color: #abc093;
+    /* main text area */
+  }  
+
+  .input-group-text {
+    background-color: #9eb1d0;
+    /* time and save areas */
+  }
+
   textarea {
     background: transparent;
     border: none;
